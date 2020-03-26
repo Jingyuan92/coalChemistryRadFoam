@@ -1,0 +1,4 @@
+/* Radiation model */
+radiationModels/P1P/P1P.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmyRadiationModels
